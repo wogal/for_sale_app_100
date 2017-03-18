@@ -18,6 +18,6 @@ public class activity_make_fs_object extends AppCompatActivity {
      * Created by wogal on 3/14/2017.
      */
     //    kkkkkk
-    public static class file_storage_helper_100 {
+                      public static class file_storage_helper_100 {
     }
 }
